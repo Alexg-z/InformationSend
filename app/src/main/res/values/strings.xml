@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">Activity Number</string>
+
+    <string name="txv1">Elegir actividad</string>
+
+    <string name="btn1">Calculadora</string>
+    <string name="btn2">Número aleatorio</string>
+
+    <string name="txv2">Calculadora</string>
+    <string name="txtnum1">Número uno</string>
+    <string name="txtnum2">Número dos</string>
+    <string name="btncalcular">Calcular</string>
+    <string name="rbtnsuma">Suma</string>
+    <string name="rbtnresta">Resta</string>
+    <string name="txv3">Resultado</string>
+
+    <string name="btn3">Regresar</string>
+
+    <string name="txv4">Prueba de memoria</string>
+    <string name="btnrandom">Obtener núm. random</string>
+    <string name="txv5">¿Cuál era el número?</string>
+    <string name="txtnum3">Número</string>
+    <string name="btncomprobar">Comprobar</string>
+    <string name="pass">¡ Prueba superada !</string>
+</resources>
